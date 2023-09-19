@@ -72,7 +72,7 @@
         height: 250px;
         position: sticky;
         top: 0px;
-        background-image: url(/images/nature.jpeg);
+        background-image: url(./images/nature.jpeg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
