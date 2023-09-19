@@ -348,7 +348,7 @@
             margin-left: 0%;
         }
         .container1 {
-            height: 300px;
+            height: 200px;
         }
         .menubar img {
             max-width: 100%;
@@ -356,7 +356,7 @@
         .menubar {
             display: block;
             width: 30px;
-            position: absolute;
+            position: fixed;
             top: 5px;
             left: 5px;
             width: 20px;
